@@ -14,7 +14,7 @@ OS: Ubuntu
 Languages.Programming: Python, JavaScript, Java, C++
 Languages.Web: HTML, CSS
 
-Frameworks: React.js, TailwindCSS, Node.js  
+Frameworks: React.js, TailwindCSS, Express.js  
 Databases: MongoDB  
 Tools: Git, GitHub, Docker (CI/CD with GitHub Actions)
 
