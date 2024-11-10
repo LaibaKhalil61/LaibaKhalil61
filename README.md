@@ -81,13 +81,13 @@ Leetcode : Laiba_Khalil
   </p>
     </div>
 </details>
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+<!-- <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LaibaKhalil61&theme=tokyonight_duo" alt="LaibaKhalil61" /></p>
+<!--<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LaibaKhalil61&theme=tokyonight_duo" alt="LaibaKhalil61" /></p>
 
-</details>
+</details> -->
   
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
