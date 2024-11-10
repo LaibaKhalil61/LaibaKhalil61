@@ -48,8 +48,8 @@ Leetcode : Laiba_Khalil
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
   <div>
   <p align="center">
-	<a href="https://github.com/LaibaKhalil61/SwapReads">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=LaibaKhalil61&repo=SwapReads&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/LaibaKhalil61/ZoroChat">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=LaibaKhalil61&repo=ZoroChat&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/LaibaKhalil61/Group-Chat-Application">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=LaibaKhalil61&repo=Group-Chat-Application&theme=tokyonight" alt="GitHub Stats" />
